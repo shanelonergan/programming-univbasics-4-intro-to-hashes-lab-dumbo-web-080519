@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    acoustic: "Martin"
+    acoustic: "Martin",
     electric: "Gibson"
   }
 end
